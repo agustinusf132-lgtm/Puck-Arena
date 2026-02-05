@@ -1,10 +1,6 @@
 **Puck Arena** is a fast-paced arcade air hockey game and lightweight 2D engine built with Python and pygame. Featuring real-time physics, smart AI, Supershot mechanics charged by skillful play, menus, audio system and state-based game flow. A playable game and a reusable engine foundation.
 
-.
 
-First to **7 points wins**.  
-Simple rules, deep mechanics, lots of juice.
-The core twist is the **Supershot (ULT)** system — charged dynamically by **good gameplay**, not time alone
 
 ---
 
